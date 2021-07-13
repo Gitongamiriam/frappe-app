@@ -1,0 +1,429 @@
+16:05:41 Worker rq:worker:2f09f98a556544c9ac7dd88e9b7ccdaa.gitonga-Lenovo-V110-15ISK.12272.short: started, version 1.8.1
+16:05:41 Subscribing to channel rq:pubsub:2f09f98a556544c9ac7dd88e9b7ccdaa.gitonga-Lenovo-V110-15ISK.12272.short
+16:05:41 *** Listening on short...
+16:05:41 Cleaning registries for queue: short
+16:05:41 Worker rq:worker:9488d10576944e53b9e413962a367137.gitonga-Lenovo-V110-15ISK.12262.long: started, version 1.8.1
+16:05:41 Subscribing to channel rq:pubsub:9488d10576944e53b9e413962a367137.gitonga-Lenovo-V110-15ISK.12262.long
+16:05:41 *** Listening on long...
+16:05:41 Cleaning registries for queue: long
+16:05:41 Worker rq:worker:fed53986459b4be3bbdec06d69c26b9a.gitonga-Lenovo-V110-15ISK.12263.default: started, version 1.8.1
+16:05:41 Subscribing to channel rq:pubsub:fed53986459b4be3bbdec06d69c26b9a.gitonga-Lenovo-V110-15ISK.12263.default
+16:05:41 *** Listening on default...
+16:05:41 Cleaning registries for queue: default
+16:05:42 Warm shut down requested
+16:05:42 Warm shut down requested
+16:05:42 Warm shut down requested
+16:05:42 Unsubscribing from channel rq:pubsub:fed53986459b4be3bbdec06d69c26b9a.gitonga-Lenovo-V110-15ISK.12263.default
+16:05:42 Unsubscribing from channel rq:pubsub:2f09f98a556544c9ac7dd88e9b7ccdaa.gitonga-Lenovo-V110-15ISK.12272.short
+16:05:42 Unsubscribing from channel rq:pubsub:9488d10576944e53b9e413962a367137.gitonga-Lenovo-V110-15ISK.12262.long
+16:15:47 Worker rq:worker:0c0d86d4bc3a40c0949b30f9c0ac59e3.gitonga-Lenovo-V110-15ISK.12791.long: started, version 1.8.1
+16:15:47 Subscribing to channel rq:pubsub:0c0d86d4bc3a40c0949b30f9c0ac59e3.gitonga-Lenovo-V110-15ISK.12791.long
+16:15:47 *** Listening on long...
+16:15:47 Cleaning registries for queue: long
+16:15:47 Worker rq:worker:97e5ad32783748c5afdde8a385e5d66f.gitonga-Lenovo-V110-15ISK.12788.default: started, version 1.8.1
+16:15:47 Subscribing to channel rq:pubsub:97e5ad32783748c5afdde8a385e5d66f.gitonga-Lenovo-V110-15ISK.12788.default
+16:15:47 *** Listening on default...
+16:15:47 Cleaning registries for queue: default
+16:15:47 Worker rq:worker:04b3fcfb135c4571909f6c4e6eb8054c.gitonga-Lenovo-V110-15ISK.12785.short: started, version 1.8.1
+16:15:47 Subscribing to channel rq:pubsub:04b3fcfb135c4571909f6c4e6eb8054c.gitonga-Lenovo-V110-15ISK.12785.short
+16:15:47 *** Listening on short...
+16:15:47 Cleaning registries for queue: short
+16:15:47 Warm shut down requested
+16:15:47 Warm shut down requested
+16:15:47 Warm shut down requested
+16:15:47 Unsubscribing from channel rq:pubsub:97e5ad32783748c5afdde8a385e5d66f.gitonga-Lenovo-V110-15ISK.12788.default
+16:15:47 Unsubscribing from channel rq:pubsub:0c0d86d4bc3a40c0949b30f9c0ac59e3.gitonga-Lenovo-V110-15ISK.12791.long
+16:15:47 Unsubscribing from channel rq:pubsub:04b3fcfb135c4571909f6c4e6eb8054c.gitonga-Lenovo-V110-15ISK.12785.short
+16:21:17 Worker rq:worker:0467ea42aebb42fdb9b8611f057d13b5.gitonga-Lenovo-V110-15ISK.14153.default: started, version 1.8.1
+16:21:17 Subscribing to channel rq:pubsub:0467ea42aebb42fdb9b8611f057d13b5.gitonga-Lenovo-V110-15ISK.14153.default
+16:21:17 *** Listening on default...
+16:21:17 Cleaning registries for queue: default
+16:21:18 Worker rq:worker:4fc9dba61b99470d82151c7413512359.gitonga-Lenovo-V110-15ISK.14144.short: started, version 1.8.1
+16:21:18 Subscribing to channel rq:pubsub:4fc9dba61b99470d82151c7413512359.gitonga-Lenovo-V110-15ISK.14144.short
+16:21:18 *** Listening on short...
+16:21:18 Cleaning registries for queue: short
+16:21:18 Worker rq:worker:dabbc258d0b4459aa7ce13ef8f0155d0.gitonga-Lenovo-V110-15ISK.14155.long: started, version 1.8.1
+16:21:18 Subscribing to channel rq:pubsub:dabbc258d0b4459aa7ce13ef8f0155d0.gitonga-Lenovo-V110-15ISK.14155.long
+16:21:18 *** Listening on long...
+16:21:18 Cleaning registries for queue: long
+16:21:18 Warm shut down requested
+16:21:18 Warm shut down requested
+16:21:18 Warm shut down requested
+16:21:18 Unsubscribing from channel rq:pubsub:4fc9dba61b99470d82151c7413512359.gitonga-Lenovo-V110-15ISK.14144.short
+16:21:18 Unsubscribing from channel rq:pubsub:dabbc258d0b4459aa7ce13ef8f0155d0.gitonga-Lenovo-V110-15ISK.14155.long
+16:21:18 Unsubscribing from channel rq:pubsub:0467ea42aebb42fdb9b8611f057d13b5.gitonga-Lenovo-V110-15ISK.14153.default
+16:22:37 Worker rq:worker:c78dc8146d7f4d40a9114755d64e43cc.gitonga-Lenovo-V110-15ISK.14309.short: started, version 1.8.1
+16:22:37 Subscribing to channel rq:pubsub:c78dc8146d7f4d40a9114755d64e43cc.gitonga-Lenovo-V110-15ISK.14309.short
+16:22:37 *** Listening on short...
+16:22:37 Cleaning registries for queue: short
+16:22:37 Worker rq:worker:09fad273adf54213979c92a04e35503c.gitonga-Lenovo-V110-15ISK.14303.long: started, version 1.8.1
+16:22:37 Subscribing to channel rq:pubsub:09fad273adf54213979c92a04e35503c.gitonga-Lenovo-V110-15ISK.14303.long
+16:22:37 *** Listening on long...
+16:22:37 Cleaning registries for queue: long
+16:22:37 Worker rq:worker:df2a1ac8203c455f8ae058e02a1b52aa.gitonga-Lenovo-V110-15ISK.14310.default: started, version 1.8.1
+16:22:37 Subscribing to channel rq:pubsub:df2a1ac8203c455f8ae058e02a1b52aa.gitonga-Lenovo-V110-15ISK.14310.default
+16:22:37 *** Listening on default...
+16:22:37 Cleaning registries for queue: default
+16:22:37 Warm shut down requested
+16:22:37 Warm shut down requested
+16:22:37 Unsubscribing from channel rq:pubsub:c78dc8146d7f4d40a9114755d64e43cc.gitonga-Lenovo-V110-15ISK.14309.short
+16:22:37 Warm shut down requested
+16:22:37 Unsubscribing from channel rq:pubsub:df2a1ac8203c455f8ae058e02a1b52aa.gitonga-Lenovo-V110-15ISK.14310.default
+16:22:37 Unsubscribing from channel rq:pubsub:09fad273adf54213979c92a04e35503c.gitonga-Lenovo-V110-15ISK.14303.long
+16:23:13 Worker rq:worker:6da1dfe85a3645dca294a67cd9c6da5e.gitonga-Lenovo-V110-15ISK.14419.default: started, version 1.8.1
+16:23:13 Subscribing to channel rq:pubsub:6da1dfe85a3645dca294a67cd9c6da5e.gitonga-Lenovo-V110-15ISK.14419.default
+16:23:13 *** Listening on default...
+16:23:13 Cleaning registries for queue: default
+16:23:14 Worker rq:worker:8074cafd4ae344279034c9b4c415b7e7.gitonga-Lenovo-V110-15ISK.14418.long: started, version 1.8.1
+16:23:14 Subscribing to channel rq:pubsub:8074cafd4ae344279034c9b4c415b7e7.gitonga-Lenovo-V110-15ISK.14418.long
+16:23:14 *** Listening on long...
+16:23:14 Cleaning registries for queue: long
+16:23:14 Worker rq:worker:63321a93af0f4e3e9fb12f3ad4b62ea1.gitonga-Lenovo-V110-15ISK.14424.short: started, version 1.8.1
+16:23:14 Subscribing to channel rq:pubsub:63321a93af0f4e3e9fb12f3ad4b62ea1.gitonga-Lenovo-V110-15ISK.14424.short
+16:23:14 *** Listening on short...
+16:23:14 Cleaning registries for queue: short
+16:23:14 Warm shut down requested
+16:23:14 Warm shut down requested
+16:23:14 Warm shut down requested
+16:23:14 Unsubscribing from channel rq:pubsub:6da1dfe85a3645dca294a67cd9c6da5e.gitonga-Lenovo-V110-15ISK.14419.default
+16:23:14 Unsubscribing from channel rq:pubsub:8074cafd4ae344279034c9b4c415b7e7.gitonga-Lenovo-V110-15ISK.14418.long
+16:23:14 Unsubscribing from channel rq:pubsub:63321a93af0f4e3e9fb12f3ad4b62ea1.gitonga-Lenovo-V110-15ISK.14424.short
+16:31:28 Worker rq:worker:9f56e0cf3d45469cb00a1901878ae57d.gitonga-Lenovo-V110-15ISK.14912.short: started, version 1.8.1
+16:31:28 Subscribing to channel rq:pubsub:9f56e0cf3d45469cb00a1901878ae57d.gitonga-Lenovo-V110-15ISK.14912.short
+16:31:28 *** Listening on short...
+16:31:28 Cleaning registries for queue: short
+16:31:28 Worker rq:worker:a3565ec13195493284242a6fe7fc39a2.gitonga-Lenovo-V110-15ISK.14909.long: started, version 1.8.1
+16:31:28 Subscribing to channel rq:pubsub:a3565ec13195493284242a6fe7fc39a2.gitonga-Lenovo-V110-15ISK.14909.long
+16:31:28 *** Listening on long...
+16:31:28 Cleaning registries for queue: long
+16:31:28 Worker rq:worker:8164769a80cf4403912064186259d2cb.gitonga-Lenovo-V110-15ISK.14916.default: started, version 1.8.1
+16:31:28 Subscribing to channel rq:pubsub:8164769a80cf4403912064186259d2cb.gitonga-Lenovo-V110-15ISK.14916.default
+16:31:28 *** Listening on default...
+16:31:28 Cleaning registries for queue: default
+16:31:28 Warm shut down requested
+16:31:28 Warm shut down requested
+16:31:28 Unsubscribing from channel rq:pubsub:9f56e0cf3d45469cb00a1901878ae57d.gitonga-Lenovo-V110-15ISK.14912.short
+16:31:28 Unsubscribing from channel rq:pubsub:8164769a80cf4403912064186259d2cb.gitonga-Lenovo-V110-15ISK.14916.default
+16:31:28 Warm shut down requested
+16:31:28 Unsubscribing from channel rq:pubsub:a3565ec13195493284242a6fe7fc39a2.gitonga-Lenovo-V110-15ISK.14909.long
+16:35:26 Worker rq:worker:d04d254167294d8e926f2adae7b874f3.gitonga-Lenovo-V110-15ISK.15241.default: started, version 1.8.1
+16:35:26 Subscribing to channel rq:pubsub:d04d254167294d8e926f2adae7b874f3.gitonga-Lenovo-V110-15ISK.15241.default
+16:35:26 *** Listening on default...
+16:35:26 Cleaning registries for queue: default
+16:35:26 Worker rq:worker:28c63285b0794c168c5d3f360b702f63.gitonga-Lenovo-V110-15ISK.15243.long: started, version 1.8.1
+16:35:26 Subscribing to channel rq:pubsub:28c63285b0794c168c5d3f360b702f63.gitonga-Lenovo-V110-15ISK.15243.long
+16:35:26 *** Listening on long...
+16:35:26 Cleaning registries for queue: long
+16:35:26 Worker rq:worker:77b909299de14b58988cd470107e13b7.gitonga-Lenovo-V110-15ISK.15237.short: started, version 1.8.1
+16:35:26 Subscribing to channel rq:pubsub:77b909299de14b58988cd470107e13b7.gitonga-Lenovo-V110-15ISK.15237.short
+16:35:26 *** Listening on short...
+16:35:26 Cleaning registries for queue: short
+16:35:27 Warm shut down requested
+16:35:27 Warm shut down requested
+16:35:27 Unsubscribing from channel rq:pubsub:d04d254167294d8e926f2adae7b874f3.gitonga-Lenovo-V110-15ISK.15241.default
+16:35:27 Unsubscribing from channel rq:pubsub:28c63285b0794c168c5d3f360b702f63.gitonga-Lenovo-V110-15ISK.15243.long
+16:35:27 Warm shut down requested
+16:35:27 Unsubscribing from channel rq:pubsub:77b909299de14b58988cd470107e13b7.gitonga-Lenovo-V110-15ISK.15237.short
+16:58:06 Worker rq:worker:88f9d6a5f5fe4b8f9ef610aa13ffec04.gitonga-Lenovo-V110-15ISK.19825.long: started, version 1.8.1
+16:58:06 Subscribing to channel rq:pubsub:88f9d6a5f5fe4b8f9ef610aa13ffec04.gitonga-Lenovo-V110-15ISK.19825.long
+16:58:06 *** Listening on long...
+16:58:06 Cleaning registries for queue: long
+16:58:06 Worker rq:worker:9f68d94d9a7c4f6aa0b71345e1cd023a.gitonga-Lenovo-V110-15ISK.19828.short: started, version 1.8.1
+16:58:06 Subscribing to channel rq:pubsub:9f68d94d9a7c4f6aa0b71345e1cd023a.gitonga-Lenovo-V110-15ISK.19828.short
+16:58:06 *** Listening on short...
+16:58:06 Cleaning registries for queue: short
+16:58:06 Worker rq:worker:567e79c8ef4e4e2d940a95478fdb9853.gitonga-Lenovo-V110-15ISK.19821.default: started, version 1.8.1
+16:58:06 Subscribing to channel rq:pubsub:567e79c8ef4e4e2d940a95478fdb9853.gitonga-Lenovo-V110-15ISK.19821.default
+16:58:06 *** Listening on default...
+16:58:06 Cleaning registries for queue: default
+16:58:07 Warm shut down requested
+16:58:07 Warm shut down requested
+16:58:07 Warm shut down requested
+16:58:07 Unsubscribing from channel rq:pubsub:88f9d6a5f5fe4b8f9ef610aa13ffec04.gitonga-Lenovo-V110-15ISK.19825.long
+16:58:07 Unsubscribing from channel rq:pubsub:567e79c8ef4e4e2d940a95478fdb9853.gitonga-Lenovo-V110-15ISK.19821.default
+16:58:07 Unsubscribing from channel rq:pubsub:9f68d94d9a7c4f6aa0b71345e1cd023a.gitonga-Lenovo-V110-15ISK.19828.short
+17:44:52 Worker rq:worker:13c243efc92d431e80a8cd54fab7be5a.gitonga-Lenovo-V110-15ISK.30633.default: started, version 1.8.1
+17:44:52 Subscribing to channel rq:pubsub:13c243efc92d431e80a8cd54fab7be5a.gitonga-Lenovo-V110-15ISK.30633.default
+17:44:52 *** Listening on default...
+17:44:52 Cleaning registries for queue: default
+17:44:52 Worker rq:worker:af7cbd7e53694575ab9b8fa5ca612505.gitonga-Lenovo-V110-15ISK.30636.short: started, version 1.8.1
+17:44:52 Subscribing to channel rq:pubsub:af7cbd7e53694575ab9b8fa5ca612505.gitonga-Lenovo-V110-15ISK.30636.short
+17:44:52 *** Listening on short...
+17:44:52 Cleaning registries for queue: short
+17:44:52 Worker rq:worker:788d57c73e5d4ae5a39b5d8d5797ab2c.gitonga-Lenovo-V110-15ISK.30631.long: started, version 1.8.1
+17:44:52 Subscribing to channel rq:pubsub:788d57c73e5d4ae5a39b5d8d5797ab2c.gitonga-Lenovo-V110-15ISK.30631.long
+17:44:52 *** Listening on long...
+17:44:52 Cleaning registries for queue: long
+17:44:52 Warm shut down requested
+17:44:52 Warm shut down requested
+17:44:52 Unsubscribing from channel rq:pubsub:788d57c73e5d4ae5a39b5d8d5797ab2c.gitonga-Lenovo-V110-15ISK.30631.long
+17:44:52 Warm shut down requested
+17:44:52 Unsubscribing from channel rq:pubsub:af7cbd7e53694575ab9b8fa5ca612505.gitonga-Lenovo-V110-15ISK.30636.short
+17:44:52 Unsubscribing from channel rq:pubsub:13c243efc92d431e80a8cd54fab7be5a.gitonga-Lenovo-V110-15ISK.30633.default
+17:51:39 Worker rq:worker:04cf2e72397e4b278f0be4d55a2148af.gitonga-Lenovo-V110-15ISK.31255.short: started, version 1.8.1
+17:51:39 Subscribing to channel rq:pubsub:04cf2e72397e4b278f0be4d55a2148af.gitonga-Lenovo-V110-15ISK.31255.short
+17:51:39 *** Listening on short...
+17:51:39 Cleaning registries for queue: short
+17:51:40 Worker rq:worker:1d2cd30d555e4196961ee170680a28e9.gitonga-Lenovo-V110-15ISK.31249.default: started, version 1.8.1
+17:51:40 Subscribing to channel rq:pubsub:1d2cd30d555e4196961ee170680a28e9.gitonga-Lenovo-V110-15ISK.31249.default
+17:51:40 *** Listening on default...
+17:51:40 Cleaning registries for queue: default
+17:51:40 Worker rq:worker:aab51d70c2a14afbaba675d2eea57ff7.gitonga-Lenovo-V110-15ISK.31251.long: started, version 1.8.1
+17:51:40 Subscribing to channel rq:pubsub:aab51d70c2a14afbaba675d2eea57ff7.gitonga-Lenovo-V110-15ISK.31251.long
+17:51:40 *** Listening on long...
+17:51:40 Cleaning registries for queue: long
+17:51:40 Warm shut down requested
+17:51:40 Warm shut down requested
+17:51:40 Warm shut down requested
+17:51:40 Unsubscribing from channel rq:pubsub:04cf2e72397e4b278f0be4d55a2148af.gitonga-Lenovo-V110-15ISK.31255.short
+17:51:40 Unsubscribing from channel rq:pubsub:1d2cd30d555e4196961ee170680a28e9.gitonga-Lenovo-V110-15ISK.31249.default
+17:51:40 Unsubscribing from channel rq:pubsub:aab51d70c2a14afbaba675d2eea57ff7.gitonga-Lenovo-V110-15ISK.31251.long
+17:59:34 Worker rq:worker:7734128a13464865990fa22bcb1a7acc.gitonga-Lenovo-V110-15ISK.31819.short: started, version 1.8.1
+17:59:34 Subscribing to channel rq:pubsub:7734128a13464865990fa22bcb1a7acc.gitonga-Lenovo-V110-15ISK.31819.short
+17:59:34 *** Listening on short...
+17:59:34 Cleaning registries for queue: short
+17:59:34 Worker rq:worker:c9869f77217f4fd5afa06bcfc5ea4375.gitonga-Lenovo-V110-15ISK.31814.default: started, version 1.8.1
+17:59:34 Subscribing to channel rq:pubsub:c9869f77217f4fd5afa06bcfc5ea4375.gitonga-Lenovo-V110-15ISK.31814.default
+17:59:34 *** Listening on default...
+17:59:34 Cleaning registries for queue: default
+17:59:35 Worker rq:worker:0a12eaf8eecd4facb618fb9a696ab3da.gitonga-Lenovo-V110-15ISK.31808.long: started, version 1.8.1
+17:59:35 Subscribing to channel rq:pubsub:0a12eaf8eecd4facb618fb9a696ab3da.gitonga-Lenovo-V110-15ISK.31808.long
+17:59:35 *** Listening on long...
+17:59:35 Cleaning registries for queue: long
+17:59:35 Warm shut down requested
+17:59:35 Warm shut down requested
+17:59:35 Unsubscribing from channel rq:pubsub:7734128a13464865990fa22bcb1a7acc.gitonga-Lenovo-V110-15ISK.31819.short
+17:59:35 Unsubscribing from channel rq:pubsub:0a12eaf8eecd4facb618fb9a696ab3da.gitonga-Lenovo-V110-15ISK.31808.long
+17:59:35 Warm shut down requested
+17:59:35 Unsubscribing from channel rq:pubsub:c9869f77217f4fd5afa06bcfc5ea4375.gitonga-Lenovo-V110-15ISK.31814.default
+18:02:21 Worker rq:worker:2c52ee117b0745c083883dbcd07d3002.gitonga-Lenovo-V110-15ISK.32099.default: started, version 1.8.1
+18:02:21 Subscribing to channel rq:pubsub:2c52ee117b0745c083883dbcd07d3002.gitonga-Lenovo-V110-15ISK.32099.default
+18:02:21 *** Listening on default...
+18:02:21 Cleaning registries for queue: default
+18:02:21 Worker rq:worker:f27fb110b53d462597dd2a1a60102997.gitonga-Lenovo-V110-15ISK.32103.long: started, version 1.8.1
+18:02:21 Subscribing to channel rq:pubsub:f27fb110b53d462597dd2a1a60102997.gitonga-Lenovo-V110-15ISK.32103.long
+18:02:21 *** Listening on long...
+18:02:21 Cleaning registries for queue: long
+18:02:21 Worker rq:worker:aaaa374100c2405c8263e1371c34bc28.gitonga-Lenovo-V110-15ISK.32106.short: started, version 1.8.1
+18:02:21 Subscribing to channel rq:pubsub:aaaa374100c2405c8263e1371c34bc28.gitonga-Lenovo-V110-15ISK.32106.short
+18:02:21 *** Listening on short...
+18:02:21 Cleaning registries for queue: short
+18:02:22 Warm shut down requested
+18:02:22 Warm shut down requested
+18:02:22 Warm shut down requested
+18:02:22 Unsubscribing from channel rq:pubsub:aaaa374100c2405c8263e1371c34bc28.gitonga-Lenovo-V110-15ISK.32106.short
+18:02:22 Unsubscribing from channel rq:pubsub:f27fb110b53d462597dd2a1a60102997.gitonga-Lenovo-V110-15ISK.32103.long
+18:02:22 Unsubscribing from channel rq:pubsub:2c52ee117b0745c083883dbcd07d3002.gitonga-Lenovo-V110-15ISK.32099.default
+18:06:21 Worker rq:worker:665a15ca1e2d437da1eec62457855fd7.gitonga-Lenovo-V110-15ISK.32317.default: started, version 1.8.1
+18:06:21 Subscribing to channel rq:pubsub:665a15ca1e2d437da1eec62457855fd7.gitonga-Lenovo-V110-15ISK.32317.default
+18:06:21 *** Listening on default...
+18:06:21 Cleaning registries for queue: default
+18:06:21 Worker rq:worker:212fbce2c4cc45ceb8106b11e6634d8a.gitonga-Lenovo-V110-15ISK.32305.short: started, version 1.8.1
+18:06:21 Subscribing to channel rq:pubsub:212fbce2c4cc45ceb8106b11e6634d8a.gitonga-Lenovo-V110-15ISK.32305.short
+18:06:21 *** Listening on short...
+18:06:21 Cleaning registries for queue: short
+18:06:21 Worker rq:worker:9b41d2a65b5d4189b91b8c93fbc94fb2.gitonga-Lenovo-V110-15ISK.32301.long: started, version 1.8.1
+18:06:21 Subscribing to channel rq:pubsub:9b41d2a65b5d4189b91b8c93fbc94fb2.gitonga-Lenovo-V110-15ISK.32301.long
+18:06:21 *** Listening on long...
+18:06:21 Cleaning registries for queue: long
+18:06:22 Warm shut down requested
+18:06:22 Warm shut down requested
+18:06:22 Warm shut down requested
+18:06:22 Unsubscribing from channel rq:pubsub:9b41d2a65b5d4189b91b8c93fbc94fb2.gitonga-Lenovo-V110-15ISK.32301.long
+18:06:22 Unsubscribing from channel rq:pubsub:212fbce2c4cc45ceb8106b11e6634d8a.gitonga-Lenovo-V110-15ISK.32305.short
+18:06:22 Unsubscribing from channel rq:pubsub:665a15ca1e2d437da1eec62457855fd7.gitonga-Lenovo-V110-15ISK.32317.default
+18:11:23 Worker rq:worker:9cb37564339447169ba035b924c73d69.gitonga-Lenovo-V110-15ISK.32736.default: started, version 1.8.1
+18:11:23 Subscribing to channel rq:pubsub:9cb37564339447169ba035b924c73d69.gitonga-Lenovo-V110-15ISK.32736.default
+18:11:23 *** Listening on default...
+18:11:23 Cleaning registries for queue: default
+18:11:23 Worker rq:worker:b79671b403c54985bf17217f6933d096.gitonga-Lenovo-V110-15ISK.32737.long: started, version 1.8.1
+18:11:23 Subscribing to channel rq:pubsub:b79671b403c54985bf17217f6933d096.gitonga-Lenovo-V110-15ISK.32737.long
+18:11:23 *** Listening on long...
+18:11:23 Cleaning registries for queue: long
+18:11:23 Worker rq:worker:de0417ff30dc4c08aa874d169c5d4914.gitonga-Lenovo-V110-15ISK.32739.short: started, version 1.8.1
+18:11:23 Subscribing to channel rq:pubsub:de0417ff30dc4c08aa874d169c5d4914.gitonga-Lenovo-V110-15ISK.32739.short
+18:11:23 *** Listening on short...
+18:11:23 Cleaning registries for queue: short
+18:11:24 Warm shut down requested
+18:11:24 Warm shut down requested
+18:11:24 Unsubscribing from channel rq:pubsub:b79671b403c54985bf17217f6933d096.gitonga-Lenovo-V110-15ISK.32737.long
+18:11:24 Warm shut down requested
+18:11:24 Unsubscribing from channel rq:pubsub:de0417ff30dc4c08aa874d169c5d4914.gitonga-Lenovo-V110-15ISK.32739.short
+18:11:24 Unsubscribing from channel rq:pubsub:9cb37564339447169ba035b924c73d69.gitonga-Lenovo-V110-15ISK.32736.default
+18:15:47 Worker rq:worker:2d2cb1de2f5d40c4b9c1d406a42f96e7.gitonga-Lenovo-V110-15ISK.33055.long: started, version 1.8.1
+18:15:47 Subscribing to channel rq:pubsub:2d2cb1de2f5d40c4b9c1d406a42f96e7.gitonga-Lenovo-V110-15ISK.33055.long
+18:15:47 *** Listening on long...
+18:15:47 Cleaning registries for queue: long
+18:15:47 Worker rq:worker:017cca15c3e64b9b97fbef30e23f136d.gitonga-Lenovo-V110-15ISK.33059.short: started, version 1.8.1
+18:15:47 Subscribing to channel rq:pubsub:017cca15c3e64b9b97fbef30e23f136d.gitonga-Lenovo-V110-15ISK.33059.short
+18:15:47 *** Listening on short...
+18:15:47 Cleaning registries for queue: short
+18:15:47 Worker rq:worker:89146fff57394b6692d0a35479711184.gitonga-Lenovo-V110-15ISK.33045.default: started, version 1.8.1
+18:15:47 Subscribing to channel rq:pubsub:89146fff57394b6692d0a35479711184.gitonga-Lenovo-V110-15ISK.33045.default
+18:15:47 *** Listening on default...
+18:15:47 Cleaning registries for queue: default
+18:15:48 Warm shut down requested
+18:15:48 Warm shut down requested
+18:15:48 Warm shut down requested
+18:15:48 Unsubscribing from channel rq:pubsub:017cca15c3e64b9b97fbef30e23f136d.gitonga-Lenovo-V110-15ISK.33059.short
+18:15:48 Unsubscribing from channel rq:pubsub:89146fff57394b6692d0a35479711184.gitonga-Lenovo-V110-15ISK.33045.default
+18:15:48 Unsubscribing from channel rq:pubsub:2d2cb1de2f5d40c4b9c1d406a42f96e7.gitonga-Lenovo-V110-15ISK.33055.long
+18:54:40 Worker rq:worker:d343d2dd2529447fad266cd3cdb6b616.gitonga-Lenovo-V110-15ISK.34875.long: started, version 1.8.1
+18:54:40 Subscribing to channel rq:pubsub:d343d2dd2529447fad266cd3cdb6b616.gitonga-Lenovo-V110-15ISK.34875.long
+18:54:40 *** Listening on long...
+18:54:40 Cleaning registries for queue: long
+18:54:40 Worker rq:worker:c181930a8aee471b92a9f5c438968759.gitonga-Lenovo-V110-15ISK.34885.default: started, version 1.8.1
+18:54:40 Subscribing to channel rq:pubsub:c181930a8aee471b92a9f5c438968759.gitonga-Lenovo-V110-15ISK.34885.default
+18:54:40 *** Listening on default...
+18:54:40 Cleaning registries for queue: default
+18:54:40 Worker rq:worker:4233279a601b4ea18ead0aaeea56d0af.gitonga-Lenovo-V110-15ISK.34883.short: started, version 1.8.1
+18:54:40 Subscribing to channel rq:pubsub:4233279a601b4ea18ead0aaeea56d0af.gitonga-Lenovo-V110-15ISK.34883.short
+18:54:40 *** Listening on short...
+18:54:40 Cleaning registries for queue: short
+18:54:41 Warm shut down requested
+18:54:41 Warm shut down requested
+18:54:41 Warm shut down requested
+18:54:41 Unsubscribing from channel rq:pubsub:c181930a8aee471b92a9f5c438968759.gitonga-Lenovo-V110-15ISK.34885.default
+18:54:41 Unsubscribing from channel rq:pubsub:d343d2dd2529447fad266cd3cdb6b616.gitonga-Lenovo-V110-15ISK.34875.long
+18:54:41 Unsubscribing from channel rq:pubsub:4233279a601b4ea18ead0aaeea56d0af.gitonga-Lenovo-V110-15ISK.34883.short
+19:08:41 Worker rq:worker:e8ba1d4d7dc34f3eabbd4b72a2a93984.gitonga-Lenovo-V110-15ISK.35907.long: started, version 1.8.1
+19:08:41 Subscribing to channel rq:pubsub:e8ba1d4d7dc34f3eabbd4b72a2a93984.gitonga-Lenovo-V110-15ISK.35907.long
+19:08:41 *** Listening on long...
+19:08:41 Cleaning registries for queue: long
+19:08:41 Worker rq:worker:2377f691ecd14c99b82c98c1c074c8b0.gitonga-Lenovo-V110-15ISK.35919.default: started, version 1.8.1
+19:08:41 Subscribing to channel rq:pubsub:2377f691ecd14c99b82c98c1c074c8b0.gitonga-Lenovo-V110-15ISK.35919.default
+19:08:41 *** Listening on default...
+19:08:41 Cleaning registries for queue: default
+19:08:41 Worker rq:worker:1c007127b06b4760b4d0bc07b491af79.gitonga-Lenovo-V110-15ISK.35920.short: started, version 1.8.1
+19:08:41 Subscribing to channel rq:pubsub:1c007127b06b4760b4d0bc07b491af79.gitonga-Lenovo-V110-15ISK.35920.short
+19:08:41 *** Listening on short...
+19:08:41 Cleaning registries for queue: short
+19:08:41 Warm shut down requested
+19:08:41 Warm shut down requested
+19:08:41 Warm shut down requested
+19:09:16 Worker rq:worker:c63d28c086cb46e98d050251a5862474.gitonga-Lenovo-V110-15ISK.36034.short: started, version 1.8.1
+19:09:16 Subscribing to channel rq:pubsub:c63d28c086cb46e98d050251a5862474.gitonga-Lenovo-V110-15ISK.36034.short
+19:09:16 *** Listening on short...
+19:09:16 Cleaning registries for queue: short
+19:09:16 Worker rq:worker:313563f6ad63419581e5c15b654c8183.gitonga-Lenovo-V110-15ISK.36051.default: started, version 1.8.1
+19:09:16 Subscribing to channel rq:pubsub:313563f6ad63419581e5c15b654c8183.gitonga-Lenovo-V110-15ISK.36051.default
+19:09:16 *** Listening on default...
+19:09:16 Cleaning registries for queue: default
+19:09:16 Worker rq:worker:a18ae61cb6a744b6bd2b7641e5dd6dbe.gitonga-Lenovo-V110-15ISK.36044.long: started, version 1.8.1
+19:09:16 Subscribing to channel rq:pubsub:a18ae61cb6a744b6bd2b7641e5dd6dbe.gitonga-Lenovo-V110-15ISK.36044.long
+19:09:16 *** Listening on long...
+19:09:16 Cleaning registries for queue: long
+19:09:17 Warm shut down requested
+19:09:17 Warm shut down requested
+19:09:17 Warm shut down requested
+19:09:17 Unsubscribing from channel rq:pubsub:a18ae61cb6a744b6bd2b7641e5dd6dbe.gitonga-Lenovo-V110-15ISK.36044.long
+19:09:17 Unsubscribing from channel rq:pubsub:313563f6ad63419581e5c15b654c8183.gitonga-Lenovo-V110-15ISK.36051.default
+19:09:17 Unsubscribing from channel rq:pubsub:c63d28c086cb46e98d050251a5862474.gitonga-Lenovo-V110-15ISK.36034.short
+19:09:54 Worker rq:worker:07a2f40f19c74911bf7ac5f81ea4a899.gitonga-Lenovo-V110-15ISK.36179.short: started, version 1.8.1
+19:09:54 Subscribing to channel rq:pubsub:07a2f40f19c74911bf7ac5f81ea4a899.gitonga-Lenovo-V110-15ISK.36179.short
+19:09:54 *** Listening on short...
+19:09:54 Cleaning registries for queue: short
+19:09:54 Worker rq:worker:6af1fde1094c471b9e88fb9c822ca7ad.gitonga-Lenovo-V110-15ISK.36175.default: started, version 1.8.1
+19:09:54 Subscribing to channel rq:pubsub:6af1fde1094c471b9e88fb9c822ca7ad.gitonga-Lenovo-V110-15ISK.36175.default
+19:09:54 *** Listening on default...
+19:09:54 Cleaning registries for queue: default
+19:09:54 Worker rq:worker:71a9356b1d3a470c864818fe03649444.gitonga-Lenovo-V110-15ISK.36182.long: started, version 1.8.1
+19:09:54 Subscribing to channel rq:pubsub:71a9356b1d3a470c864818fe03649444.gitonga-Lenovo-V110-15ISK.36182.long
+19:09:54 *** Listening on long...
+19:09:54 Cleaning registries for queue: long
+19:09:55 Warm shut down requested
+19:09:55 Warm shut down requested
+19:09:55 Warm shut down requested
+19:09:55 Unsubscribing from channel rq:pubsub:07a2f40f19c74911bf7ac5f81ea4a899.gitonga-Lenovo-V110-15ISK.36179.short
+19:09:55 Unsubscribing from channel rq:pubsub:6af1fde1094c471b9e88fb9c822ca7ad.gitonga-Lenovo-V110-15ISK.36175.default
+19:09:55 Unsubscribing from channel rq:pubsub:71a9356b1d3a470c864818fe03649444.gitonga-Lenovo-V110-15ISK.36182.long
+19:11:28 Worker rq:worker:5a6ecd99060e4a0bb5564f80cfc43663.gitonga-Lenovo-V110-15ISK.36367.default: started, version 1.8.1
+19:11:28 Subscribing to channel rq:pubsub:5a6ecd99060e4a0bb5564f80cfc43663.gitonga-Lenovo-V110-15ISK.36367.default
+19:11:28 *** Listening on default...
+19:11:28 Cleaning registries for queue: default
+19:11:28 Worker rq:worker:40b000c59db84cf896852f534ba9d37c.gitonga-Lenovo-V110-15ISK.36362.long: started, version 1.8.1
+19:11:28 Subscribing to channel rq:pubsub:40b000c59db84cf896852f534ba9d37c.gitonga-Lenovo-V110-15ISK.36362.long
+19:11:28 *** Listening on long...
+19:11:28 Worker rq:worker:08717f8e30394f6cb3b686673d57d848.gitonga-Lenovo-V110-15ISK.36364.short: started, version 1.8.1
+19:11:28 Subscribing to channel rq:pubsub:08717f8e30394f6cb3b686673d57d848.gitonga-Lenovo-V110-15ISK.36364.short
+19:11:28 *** Listening on short...
+19:11:28 Cleaning registries for queue: long
+19:11:28 Cleaning registries for queue: short
+19:11:28 Warm shut down requested
+19:11:28 Warm shut down requested
+19:11:28 Warm shut down requested
+19:11:28 Unsubscribing from channel rq:pubsub:40b000c59db84cf896852f534ba9d37c.gitonga-Lenovo-V110-15ISK.36362.long
+19:11:28 Unsubscribing from channel rq:pubsub:08717f8e30394f6cb3b686673d57d848.gitonga-Lenovo-V110-15ISK.36364.short
+19:11:28 Unsubscribing from channel rq:pubsub:5a6ecd99060e4a0bb5564f80cfc43663.gitonga-Lenovo-V110-15ISK.36367.default
+19:11:54 Worker rq:worker:ff175a08b1c540caa7374b8fc7e4ce6a.gitonga-Lenovo-V110-15ISK.36478.short: started, version 1.8.1
+19:11:54 Subscribing to channel rq:pubsub:ff175a08b1c540caa7374b8fc7e4ce6a.gitonga-Lenovo-V110-15ISK.36478.short
+19:11:54 *** Listening on short...
+19:11:54 Cleaning registries for queue: short
+19:11:54 Worker rq:worker:2e9bbca86ee94b5da301530bda38cb89.gitonga-Lenovo-V110-15ISK.36477.long: started, version 1.8.1
+19:11:54 Subscribing to channel rq:pubsub:2e9bbca86ee94b5da301530bda38cb89.gitonga-Lenovo-V110-15ISK.36477.long
+19:11:54 *** Listening on long...
+19:11:54 Cleaning registries for queue: long
+19:11:54 Worker rq:worker:a54d25632ae94c3784565959b0716efe.gitonga-Lenovo-V110-15ISK.36469.default: started, version 1.8.1
+19:11:54 Subscribing to channel rq:pubsub:a54d25632ae94c3784565959b0716efe.gitonga-Lenovo-V110-15ISK.36469.default
+19:11:54 *** Listening on default...
+19:11:54 Cleaning registries for queue: default
+19:11:55 Warm shut down requested
+19:11:55 Warm shut down requested
+19:11:55 Unsubscribing from channel rq:pubsub:ff175a08b1c540caa7374b8fc7e4ce6a.gitonga-Lenovo-V110-15ISK.36478.short
+19:11:55 Warm shut down requested
+19:11:55 Unsubscribing from channel rq:pubsub:2e9bbca86ee94b5da301530bda38cb89.gitonga-Lenovo-V110-15ISK.36477.long
+19:11:55 Unsubscribing from channel rq:pubsub:a54d25632ae94c3784565959b0716efe.gitonga-Lenovo-V110-15ISK.36469.default
+19:16:57 Worker rq:worker:ad010d7ebbf94de6be0ab873ed137c68.gitonga-Lenovo-V110-15ISK.37645.short: started, version 1.8.1
+19:16:57 Subscribing to channel rq:pubsub:ad010d7ebbf94de6be0ab873ed137c68.gitonga-Lenovo-V110-15ISK.37645.short
+19:16:57 *** Listening on short...
+19:16:57 Cleaning registries for queue: short
+19:16:57 Worker rq:worker:07f4a374c34148c48cff757afb3ebea8.gitonga-Lenovo-V110-15ISK.37655.default: started, version 1.8.1
+19:16:57 Subscribing to channel rq:pubsub:07f4a374c34148c48cff757afb3ebea8.gitonga-Lenovo-V110-15ISK.37655.default
+19:16:57 *** Listening on default...
+19:16:57 Cleaning registries for queue: default
+19:16:57 Worker rq:worker:d439ac4f88254bd88d3580962bacdc7c.gitonga-Lenovo-V110-15ISK.37659.long: started, version 1.8.1
+19:16:57 Subscribing to channel rq:pubsub:d439ac4f88254bd88d3580962bacdc7c.gitonga-Lenovo-V110-15ISK.37659.long
+19:16:57 *** Listening on long...
+19:16:57 Cleaning registries for queue: long
+19:16:58 Warm shut down requested
+19:16:58 Warm shut down requested
+19:16:58 Unsubscribing from channel rq:pubsub:d439ac4f88254bd88d3580962bacdc7c.gitonga-Lenovo-V110-15ISK.37659.long
+19:16:58 Unsubscribing from channel rq:pubsub:ad010d7ebbf94de6be0ab873ed137c68.gitonga-Lenovo-V110-15ISK.37645.short
+19:16:58 Warm shut down requested
+19:16:58 Unsubscribing from channel rq:pubsub:07f4a374c34148c48cff757afb3ebea8.gitonga-Lenovo-V110-15ISK.37655.default
+19:21:38 Worker rq:worker:e13e7cc389134da2a953bd841113b602.gitonga-Lenovo-V110-15ISK.38103.default: started, version 1.8.1
+19:21:38 Subscribing to channel rq:pubsub:e13e7cc389134da2a953bd841113b602.gitonga-Lenovo-V110-15ISK.38103.default
+19:21:38 *** Listening on default...
+19:21:38 Cleaning registries for queue: default
+19:21:38 Worker rq:worker:b626ec4e25c440d1a41df8eb4be41612.gitonga-Lenovo-V110-15ISK.38108.short: started, version 1.8.1
+19:21:38 Subscribing to channel rq:pubsub:b626ec4e25c440d1a41df8eb4be41612.gitonga-Lenovo-V110-15ISK.38108.short
+19:21:38 *** Listening on short...
+19:21:38 Cleaning registries for queue: short
+19:21:38 Worker rq:worker:2839192123ef4f32b24f0464688a1530.gitonga-Lenovo-V110-15ISK.38100.long: started, version 1.8.1
+19:21:38 Subscribing to channel rq:pubsub:2839192123ef4f32b24f0464688a1530.gitonga-Lenovo-V110-15ISK.38100.long
+19:21:38 *** Listening on long...
+19:21:38 Cleaning registries for queue: long
+19:21:39 Warm shut down requested
+19:21:39 Warm shut down requested
+19:21:39 Warm shut down requested
+19:21:39 Unsubscribing from channel rq:pubsub:b626ec4e25c440d1a41df8eb4be41612.gitonga-Lenovo-V110-15ISK.38108.short
+19:21:39 Unsubscribing from channel rq:pubsub:e13e7cc389134da2a953bd841113b602.gitonga-Lenovo-V110-15ISK.38103.default
+19:21:39 Unsubscribing from channel rq:pubsub:2839192123ef4f32b24f0464688a1530.gitonga-Lenovo-V110-15ISK.38100.long
+19:34:33 Worker rq:worker:89b74850ff494a0e9e3237078b19d4c0.gitonga-Lenovo-V110-15ISK.38553.default: started, version 1.8.1
+19:34:33 Subscribing to channel rq:pubsub:89b74850ff494a0e9e3237078b19d4c0.gitonga-Lenovo-V110-15ISK.38553.default
+19:34:33 *** Listening on default...
+19:34:33 Cleaning registries for queue: default
+19:34:33 Worker rq:worker:95b32d158fc64764bf8d09670907092f.gitonga-Lenovo-V110-15ISK.38558.short: started, version 1.8.1
+19:34:33 Subscribing to channel rq:pubsub:95b32d158fc64764bf8d09670907092f.gitonga-Lenovo-V110-15ISK.38558.short
+19:34:33 *** Listening on short...
+19:34:33 Cleaning registries for queue: short
+19:34:34 Worker rq:worker:d530a0bd9e3140a8b9725f0a169bb3b3.gitonga-Lenovo-V110-15ISK.38559.long: started, version 1.8.1
+19:34:34 Subscribing to channel rq:pubsub:d530a0bd9e3140a8b9725f0a169bb3b3.gitonga-Lenovo-V110-15ISK.38559.long
+19:34:34 *** Listening on long...
+19:34:34 Cleaning registries for queue: long
+19:34:34 Warm shut down requested
+19:34:34 Warm shut down requested
+19:34:34 Warm shut down requested
+19:34:34 Unsubscribing from channel rq:pubsub:d530a0bd9e3140a8b9725f0a169bb3b3.gitonga-Lenovo-V110-15ISK.38559.long
+19:34:34 Unsubscribing from channel rq:pubsub:89b74850ff494a0e9e3237078b19d4c0.gitonga-Lenovo-V110-15ISK.38553.default
+19:34:34 Unsubscribing from channel rq:pubsub:95b32d158fc64764bf8d09670907092f.gitonga-Lenovo-V110-15ISK.38558.short
